@@ -250,8 +250,8 @@ img {
 
 .hero__title {
     font-family: var(--font-titles);
-    font-size: 3rem;
-    line-height: 1.2;
+    font-size: 56px;
+    line-height: 700;
     margin-bottom: 15px;
 }
 
